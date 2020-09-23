@@ -13,7 +13,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
   },
-  "homepage": "https://tbragg800.github.io/19-react-employee-directory/",
+  "homepage": "https://tbragg800.github.io/19-react-employee-directory",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",

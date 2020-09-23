@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 [Github 19-react-employee-directory](https://github.com/TBragg800/19-react-employee-directory)
 
 ##  Deployed Site:
-[]()
+[Github 19-react-employee-directory](https://tbragg800.github.io/19-react-employee-directory/)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/19-react-employee-directory)
